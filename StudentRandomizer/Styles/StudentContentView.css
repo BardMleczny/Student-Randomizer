@@ -1,0 +1,39 @@
+﻿.student-frame {
+    margin: 0 10;
+    border-color: #CCCCCC;
+    background-color: #333333;
+    border-radius: 10;
+    box-shadow: 0 2 4 rgba(0, 0, 0, 0.1);
+}
+
+.student-label {
+    font-size: 16;
+    color: white;
+    vertical-align: center;
+}
+
+.student-number-label {
+    font-size: 16;
+    font-weight: bold;
+    color: white;
+    vertical-align: center;
+}
+
+.student-present-label {
+    font-size: 10;
+    color: white;
+    vertical-align: center;
+}
+
+.student-checkbox {
+    vertical-align: center;
+}
+
+.remove-button {
+    color: white;
+    font-size: 14;
+    border-radius: 5;
+    padding: 10;
+    vertical-align: center;
+    margin-right: 70;
+}

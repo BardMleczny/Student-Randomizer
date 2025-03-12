@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\styles\\studentclasscontentview.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\styles\\studentclasscontentview.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\contentviews\\studentclasscontentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\contentviews\\studentclasscontentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\styles\\studentcontentview.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\styles\\studentcontentview.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\styles\\classes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\styles\\classes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\styles\\studentlist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\styles\\studentlist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\contentviews\\studentcontentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\contentviews\\studentcontentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\views\\studentlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\views\\studentlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentRandomizer\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\views\\addstudent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\views\\addstudent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\views\\classes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\views\\classes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\views\\addstudent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\views\\addstudent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\styles\\addstudent.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\styles\\addstudent.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\styles\\addclass.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\styles\\addclass.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\views\\addclass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\views\\addclass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\views\\classes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\views\\classes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\contentviews\\studentclasscontentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\contentviews\\studentclasscontentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\contentviews\\studentcontentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\contentviews\\studentcontentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\views\\studentlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\views\\studentlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\views\\addclass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\views\\addclass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\models\\classmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\models\\classmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\models\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\models\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|c:\\users\\dominik\\desktop\\studentrandomizer (2)\\studentrandomizer\\studentrandomizer\\studentrandomizer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA4B9E60-80B3-41DD-A7E9-F00E618537B6}|StudentRandomizer\\StudentRandomizer.csproj|solutionrelative:studentrandomizer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentClassContentView.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\ContentViews\\StudentClassContentView.xaml",
+              "RelativeDocumentMoniker": "StudentRandomizer\\ContentViews\\StudentClassContentView.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\ContentViews\\StudentClassContentView.xaml",
+              "RelativeToolTip": "StudentRandomizer\\ContentViews\\StudentClassContentView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T18:27:49.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Classes.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\Classes.xaml.cs",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Views\\Classes.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\Classes.xaml.cs",
+              "RelativeToolTip": "StudentRandomizer\\Views\\Classes.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAawBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:30:14.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddStudent.css",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Styles\\AddStudent.css",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Styles\\AddStudent.css",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Styles\\AddStudent.css",
+              "RelativeToolTip": "StudentRandomizer\\Styles\\AddStudent.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T19:20:48.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentList.css",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Styles\\StudentList.css",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Styles\\StudentList.css",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Styles\\StudentList.css",
+              "RelativeToolTip": "StudentRandomizer\\Styles\\StudentList.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T18:33:15.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "StudentRandomizer\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "StudentRandomizer\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIA6wEoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:15:01.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentList.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\StudentList.xaml",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Views\\StudentList.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\StudentList.xaml",
+              "RelativeToolTip": "StudentRandomizer\\Views\\StudentList.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T18:52:18.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentContentView.css",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Styles\\StudentContentView.css",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Styles\\StudentContentView.css",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Styles\\StudentContentView.css",
+              "RelativeToolTip": "StudentRandomizer\\Styles\\StudentContentView.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T19:20:50.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Classes.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\Classes.xaml",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Views\\Classes.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\Classes.xaml",
+              "RelativeToolTip": "StudentRandomizer\\Views\\Classes.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T18:27:40.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentClassContentView.css",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Styles\\StudentClassContentView.css",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Styles\\StudentClassContentView.css",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Styles\\StudentClassContentView.css",
+              "RelativeToolTip": "StudentRandomizer\\Styles\\StudentClassContentView.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T19:20:50.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Classes.css",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Styles\\Classes.css",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Styles\\Classes.css",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Styles\\Classes.css",
+              "RelativeToolTip": "StudentRandomizer\\Styles\\Classes.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T18:25:48.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentContentView.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\ContentViews\\StudentContentView.xaml",
+              "RelativeDocumentMoniker": "StudentRandomizer\\ContentViews\\StudentContentView.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\ContentViews\\StudentContentView.xaml",
+              "RelativeToolTip": "StudentRandomizer\\ContentViews\\StudentContentView.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T19:07:10.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddStudent.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\AddStudent.xaml",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Views\\AddStudent.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\AddStudent.xaml",
+              "RelativeToolTip": "StudentRandomizer\\Views\\AddStudent.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T18:41:19.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddStudent.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\AddStudent.xaml.cs",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Views\\AddStudent.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\AddStudent.xaml.cs",
+              "RelativeToolTip": "StudentRandomizer\\Views\\AddStudent.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:53:47.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddClass.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\AddClass.xaml",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Views\\AddClass.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\AddClass.xaml",
+              "RelativeToolTip": "StudentRandomizer\\Views\\AddClass.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T21:07:09.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddClass.css",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Styles\\AddClass.css",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Styles\\AddClass.css",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Styles\\AddClass.css",
+              "RelativeToolTip": "StudentRandomizer\\Styles\\AddClass.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T19:20:48.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentClassContentView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\ContentViews\\StudentClassContentView.xaml.cs",
+              "RelativeDocumentMoniker": "StudentRandomizer\\ContentViews\\StudentClassContentView.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\ContentViews\\StudentClassContentView.xaml.cs",
+              "RelativeToolTip": "StudentRandomizer\\ContentViews\\StudentClassContentView.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:42:52.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentContentView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\ContentViews\\StudentContentView.xaml.cs",
+              "RelativeDocumentMoniker": "StudentRandomizer\\ContentViews\\StudentContentView.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\ContentViews\\StudentContentView.xaml.cs",
+              "RelativeToolTip": "StudentRandomizer\\ContentViews\\StudentContentView.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwDQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:08:16.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Models\\Student.cs",
+              "RelativeToolTip": "StudentRandomizer\\Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:54:15.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddClass.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\AddClass.xaml.cs",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Views\\AddClass.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\AddClass.xaml.cs",
+              "RelativeToolTip": "StudentRandomizer\\Views\\AddClass.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:53:05.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\StudentList.xaml.cs",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Views\\StudentList.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Views\\StudentList.xaml.cs",
+              "RelativeToolTip": "StudentRandomizer\\Views\\StudentList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:53:34.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "StudentRandomizer\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\AppShell.xaml.cs",
+              "RelativeToolTip": "StudentRandomizer\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:03:12.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\App.xaml",
+              "RelativeDocumentMoniker": "StudentRandomizer\\App.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\App.xaml",
+              "RelativeToolTip": "StudentRandomizer\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T13:32:16.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClassManager.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Models\\ClassManager.cs",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Models\\ClassManager.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Models\\ClassManager.cs",
+              "RelativeToolTip": "StudentRandomizer\\Models\\ClassManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:32:07.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentClass.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Models\\StudentClass.cs",
+              "RelativeDocumentMoniker": "StudentRandomizer\\Models\\StudentClass.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\Models\\StudentClass.cs",
+              "RelativeToolTip": "StudentRandomizer\\Models\\StudentClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:30:07.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\AppShell.xaml",
+              "RelativeDocumentMoniker": "StudentRandomizer\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\AppShell.xaml",
+              "RelativeToolTip": "StudentRandomizer\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T19:41:49.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

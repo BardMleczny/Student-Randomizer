@@ -1,0 +1,32 @@
+﻿.class-frame {
+    margin: 5 10;
+    border-radius: 10;
+}
+
+.class-label {
+    font-size: 20;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.student-count-label {
+    font-size: 20;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.select-button {
+    color: black;
+    font-size: 16;
+    border-radius: 10;
+    padding: 10;
+}
+
+.delete-button {
+    color: white;
+    font-size: 16;
+    border-radius: 10;
+    padding: 10;
+}

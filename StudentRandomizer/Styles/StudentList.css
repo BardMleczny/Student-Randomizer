@@ -1,0 +1,49 @@
+﻿.content-page {
+    background-color: #121212;
+    padding: 10;
+}
+
+.random-student-button {
+    background-color: #4C4CFF;
+    color: black;
+    font-size: 14;
+    border-radius: 5;
+    padding: 10;
+    margin: 10;
+}
+
+.chosen-student-frame {
+    background-color: #2E2E2E;
+    border-radius: 15;
+    margin-left: 188;
+    padding: 15;
+    vertical-align: start;
+}
+
+.chosen-student-label {
+    font-size: 16;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.chosen-student-detail {
+    font-size: 14;
+    color: #FFFFFF;
+}
+
+.lucky-number-label {
+    font-size: 14;
+    color: #FFFFFF;
+    margin-left: 20;
+    vertical-align: center;
+}
+
+.students-stack-layout {
+    padding: 10;
+    background-color: #1E1E1E;
+}
+
+.toolbar-item {
+    color: #BB86FC;
+    font-size: 22;
+}

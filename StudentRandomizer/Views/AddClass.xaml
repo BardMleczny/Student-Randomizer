@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StudentRandomizer.Views.AddClass"
+             Title="AddClass">
+
+    <ContentPage.Resources>
+        <StyleSheet Source="../Styles/AddClass.css" />
+    </ContentPage.Resources>
+
+    <VerticalStackLayout StyleClass="add-class-page">
+        <Editor x:Name="ClassName"
+                StyleClass="class-name-editor"
+                MaxLength="30"
+                Placeholder="Enter your class name" />
+
+        <Button Text="Save"
+                BackgroundColor="#4CFF4C"
+                StyleClass="save-button"
+                Clicked="OnSaveClicked" />
+    </VerticalStackLayout>
+</ContentPage>

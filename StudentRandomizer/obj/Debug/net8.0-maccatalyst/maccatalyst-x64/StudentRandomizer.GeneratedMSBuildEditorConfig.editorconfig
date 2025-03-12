@@ -1,0 +1,113 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StudentRandomizer
+build_property.ProjectDir = C:\Users\Dominik\Desktop\StudentRandomizer (2)\StudentRandomizer\StudentRandomizer\StudentRandomizer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/ContentViews/StudentClassContentView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.ContentViews.StudentClassContentView.xaml
+build_metadata.AdditionalFiles.TargetPath = ContentViews\StudentClassContentView.xaml
+build_metadata.AdditionalFiles.RelativePath = ContentViews\StudentClassContentView.xaml
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/ContentViews/StudentContentView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.ContentViews.StudentContentView.xaml
+build_metadata.AdditionalFiles.TargetPath = ContentViews\StudentContentView.xaml
+build_metadata.AdditionalFiles.RelativePath = ContentViews\StudentContentView.xaml
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/Views/AddClass.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.Views.AddClass.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddClass.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddClass.xaml
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/Views/AddStudent.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.Views.AddStudent.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddStudent.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddStudent.xaml
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/Views/Classes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.Views.Classes.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Classes.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Classes.xaml
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/Views/StudentList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.Views.StudentList.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\StudentList.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\StudentList.xaml
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/Styles/AddClass.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.Styles.AddClass.css
+build_metadata.AdditionalFiles.TargetPath = Styles\AddClass.css
+build_metadata.AdditionalFiles.RelativePath = Styles\AddClass.css
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/Styles/AddStudent.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.Styles.AddStudent.css
+build_metadata.AdditionalFiles.TargetPath = Styles\AddStudent.css
+build_metadata.AdditionalFiles.RelativePath = Styles\AddStudent.css
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/Styles/Classes.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.Styles.Classes.css
+build_metadata.AdditionalFiles.TargetPath = Styles\Classes.css
+build_metadata.AdditionalFiles.RelativePath = Styles\Classes.css
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/Styles/StudentClassContentView.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.Styles.StudentClassContentView.css
+build_metadata.AdditionalFiles.TargetPath = Styles\StudentClassContentView.css
+build_metadata.AdditionalFiles.RelativePath = Styles\StudentClassContentView.css
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/Styles/StudentContentView.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.Styles.StudentContentView.css
+build_metadata.AdditionalFiles.TargetPath = Styles\StudentContentView.css
+build_metadata.AdditionalFiles.RelativePath = Styles\StudentContentView.css
+
+[C:/Users/Dominik/Desktop/StudentRandomizer (2)/StudentRandomizer/StudentRandomizer/StudentRandomizer/Styles/StudentList.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = StudentRandomizer.Styles.StudentList.css
+build_metadata.AdditionalFiles.TargetPath = Styles\StudentList.css
+build_metadata.AdditionalFiles.RelativePath = Styles\StudentList.css

@@ -1,0 +1,24 @@
+﻿.add-student-page {
+    background-color: #121212;
+    padding: 20;
+}
+
+.student-input-editor {
+    background-color: #2E2E2E;
+    color: #FFFFFF;
+    font-size: 16;
+    placeholder-color: #AAAAAA;
+    horizontal-align: center;
+    height: 40;
+    border-radius: 5;
+    padding: 10;
+    margin-bottom: 20;
+}
+
+.save-button {
+    color: black;
+    font-size: 16;
+    border-radius: 10;
+    padding: 10;
+    horizontal-align: center;
+}

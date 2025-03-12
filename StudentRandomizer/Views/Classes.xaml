@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StudentRandomizer.Views.Classes"
+             Title="Classes">
+
+    <ContentPage.Resources>
+        <StyleSheet Source="../Styles/Classes.css" />
+    </ContentPage.Resources>
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add"
+                     Clicked="AddClicked"
+                     IconImageSource="{FontImage Glyph='+', Color=Black, Size=22}" 
+                     StyleClass="toolbar-item" />
+    </ContentPage.ToolbarItems>
+
+    <ScrollView StyleClass="content-page">
+        <StackLayout x:Name="ClassesStackLayout" StyleClass="classes-stack-layout" />
+    </ScrollView>
+</ContentPage>

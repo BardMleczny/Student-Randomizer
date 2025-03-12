@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StudentRandomizer.Views.StudentList"
+             Title="StudentList">
+
+    <ContentPage.Resources>
+        <StyleSheet Source="../Styles/StudentList.css" />
+    </ContentPage.Resources>
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add"
+                     Clicked="AddClicked"
+                     IconImageSource="{FontImage Glyph='+', Color=Black, Size=22}" />
+    </ContentPage.ToolbarItems>
+
+    <ScrollView StyleClass="content-page">
+        <StackLayout Padding="10">
+            <Button Text="Select Random Student"
+                    Clicked="OnRandomClicked"
+                    StyleClass="random-student-button" />
+
+            <Grid StyleClass="chosen-student-layout">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <Frame StyleClass="chosen-student-frame"
+                       BorderColor="White"
+                       Grid.Column="0"
+                       HorizontalOptions="Center">
+                    <VerticalStackLayout Spacing="5">
+                        <Label Text="Chosen Student"
+                               StyleClass="chosen-student-label" />
+                        <Label x:Name="ChosenStudentNumber"
+                               Text="Number: "
+                               StyleClass="chosen-student-detail" />
+                        <Label x:Name="ChosenStudentName"
+                               Text="Name: "
+                               StyleClass="chosen-student-detail" />
+                        <Label x:Name="ChosenStudentSurname"
+                               Text="Surname: "
+                               StyleClass="chosen-student-detail" />
+                    </VerticalStackLayout>
+                </Frame>
+
+                <Label x:Name="LuckyNumber"
+                       Text="Today's lucky number: "
+                       StyleClass="lucky-number-label"
+                       Grid.Column="1"
+                       HorizontalOptions="End"
+                       VerticalOptions="Center" />
+            </Grid>
+
+
+
+            <StackLayout x:Name="StudentsStackLayout" Padding="10"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
