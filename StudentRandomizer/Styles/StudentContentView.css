@@ -1,9 +1,7 @@
 ﻿.student-frame {
     margin: 0 10;
-    border-color: #CCCCCC;
-    background-color: #333333;
+    background-color: #FF0000;
     border-radius: 10;
-    box-shadow: 0 2 4 rgba(0, 0, 0, 0.1);
 }
 
 .student-label {

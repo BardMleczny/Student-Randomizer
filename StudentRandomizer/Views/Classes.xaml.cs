@@ -11,7 +11,7 @@ public partial class Classes : ContentPage
 		InitializeComponent();
 
         ClassManager.GenerateTodaysLuckyNumber();
-	}
+    }
     private async void AddClicked(object sender, EventArgs e)
     {
         await Shell.Current.GoToAsync(nameof(AddClass));

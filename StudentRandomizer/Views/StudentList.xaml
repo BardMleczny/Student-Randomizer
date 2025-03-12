@@ -17,6 +17,7 @@
     <ScrollView StyleClass="content-page">
         <StackLayout Padding="10">
             <Button Text="Select Random Student"
+                    BackgroundColor="#4C4CFF"
                     Clicked="OnRandomClicked"
                     StyleClass="random-student-button" />
 
@@ -29,7 +30,7 @@
                 <Frame StyleClass="chosen-student-frame"
                        BorderColor="White"
                        Grid.Column="0"
-                       HorizontalOptions="Center">
+                       HorizontalOptions="Center" >
                     <VerticalStackLayout Spacing="5">
                         <Label Text="Chosen Student"
                                StyleClass="chosen-student-label" />

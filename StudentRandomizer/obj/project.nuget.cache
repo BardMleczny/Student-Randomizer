@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tri1UTf28I4=",
+  "dgSpecHash": "t4LLTN3f4C0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer.csproj",
+  "projectFilePath": "C:\\Users\\Dominik\\Documents\\GitHub\\Student-Randomizer\\StudentRandomizer\\StudentRandomizer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dominik\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Dominik\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

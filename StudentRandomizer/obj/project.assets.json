@@ -33055,11 +33055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer.csproj",
+      "projectUniqueName": "C:\\Users\\Dominik\\Documents\\GitHub\\Student-Randomizer\\StudentRandomizer\\StudentRandomizer.csproj",
       "projectName": "StudentRandomizer",
-      "projectPath": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer.csproj",
+      "projectPath": "C:\\Users\\Dominik\\Documents\\GitHub\\Student-Randomizer\\StudentRandomizer\\StudentRandomizer.csproj",
       "packagesPath": "C:\\Users\\Dominik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dominik\\Desktop\\StudentRandomizer (2)\\StudentRandomizer\\StudentRandomizer\\StudentRandomizer\\obj\\",
+      "outputPath": "C:\\Users\\Dominik\\Documents\\GitHub\\Student-Randomizer\\StudentRandomizer\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

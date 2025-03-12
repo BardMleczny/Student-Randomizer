@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.studentrandomizer</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>92D03147DBC6DA9CC77110B834EF1DE126E9F5854E26DE016196170AFBF0CE4D</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.studentrandomizer_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.studentrandomizer_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,268 +26,268 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-12T19:54:20.476</Modified>
+      <Modified>2025-03-12T20:42:54.807</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2025-03-12T18:27:36.154</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\StudentRandomizer.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\StudentRandomizer.runtimeconfig.json">
       <PackagePath>StudentRandomizer.runtimeconfig.json</PackagePath>
-      <Modified>2025-03-11T17:53:14.130</Modified>
+      <Modified>2025-03-12T20:07:19.227</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\StudentRandomizer.dll">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\StudentRandomizer.dll">
       <PackagePath>StudentRandomizer.dll</PackagePath>
-      <Modified>2025-03-12T19:54:20.119</Modified>
+      <Modified>2025-03-12T20:42:54.399</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>StudentRandomizer.exe</PackagePath>
-      <Modified>2025-03-12T19:54:20.124</Modified>
+      <Modified>2025-03-12T20:42:54.406</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2025-03-04T20:29:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2025-03-04T20:29:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2025-03-04T20:29:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2025-03-04T20:29:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2025-03-04T20:29:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2025-03-04T20:29:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2025-03-04T20:29:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2025-03-04T20:29:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2025-03-09T19:57:30.184</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2025-03-09T19:57:30.176</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2025-03-09T19:57:30.176</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2025-03-09T19:57:30.175</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2025-03-09T19:57:30.175</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2025-03-09T19:57:30.175</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2025-03-09T19:57:30.181</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2025-03-09T19:57:30.181</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2025-03-09T19:57:30.180</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2025-03-09T19:57:30.181</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2025-03-09T19:57:30.180</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2025-03-09T19:57:30.182</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2025-03-09T19:57:30.182</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2025-03-09T19:57:30.181</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2025-03-09T19:57:30.182</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2025-03-09T19:57:30.181</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2025-03-09T19:57:30.184</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2025-03-09T19:57:30.183</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2025-03-09T19:57:30.183</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2025-03-09T19:57:30.183</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2025-03-09T19:57:30.183</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2025-03-09T19:57:30.183</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2025-03-09T19:57:30.183</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2025-03-09T19:57:30.182</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2025-03-09T19:57:30.182</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2025-03-09T19:57:30.182</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2025-03-09T19:57:30.178</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2025-03-09T19:57:30.177</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2025-03-09T19:57:30.177</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2025-03-09T19:57:30.177</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2025-03-09T19:57:30.177</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2025-03-09T19:57:30.179</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2025-03-09T19:57:30.178</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2025-03-09T19:57:30.178</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2025-03-09T19:57:30.178</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2025-03-09T19:57:30.178</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2025-03-09T19:57:30.180</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2025-03-09T19:57:30.179</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2025-03-09T19:57:30.179</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2025-03-09T19:57:30.179</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2025-03-09T19:57:30.179</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2025-03-09T19:57:30.177</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2025-03-09T19:57:30.176</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2025-03-09T19:57:30.176</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2025-03-09T19:57:30.176</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2025-03-09T19:57:30.176</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2025-03-09T19:57:30.175</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2025-03-09T19:57:30.175</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2025-03-09T19:57:30.175</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2025-03-09T19:57:30.174</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2025-03-09T19:57:30.174</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dominik\Desktop\StudentRandomizer %282%29\StudentRandomizer\StudentRandomizer\StudentRandomizer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\StudentRandomizer.deps.json">
+    <AppxPackagedFile Include="C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\StudentRandomizer.deps.json">
       <PackagePath>StudentRandomizer.deps.json</PackagePath>
-      <Modified>2025-03-12T18:27:35.783</Modified>
+      <Modified>2025-03-12T20:07:19.069</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dominik\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

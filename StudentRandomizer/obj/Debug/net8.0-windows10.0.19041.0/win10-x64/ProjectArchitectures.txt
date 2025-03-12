@@ -1,1 +1,1 @@
-C:\Users\Dominik\Desktop\StudentRandomizer (2)\StudentRandomizer\StudentRandomizer\StudentRandomizer\StudentRandomizer.csproj;x64
+C:\Users\Dominik\Documents\GitHub\Student-Randomizer\StudentRandomizer\StudentRandomizer.csproj;x64
